@@ -1,0 +1,62 @@
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\appsettings.Development.json
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\appsettings.json
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.staticwebassets.runtime.json
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.exe
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.deps.json
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.runtimeconfig.json
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.dll
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.pdb
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\runtimes\win7-x64\native\sni.dll
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\runtimes\win7-x86\native\sni.dll
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+F:\TestApplication\DotNetCoreWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.csproj.AssemblyReference.cache
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.AssemblyInfoInputs.cache
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.AssemblyInfo.cs
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.csproj.CoreCompileInputs.cache
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.RazorAssemblyInfo.cache
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.RazorAssemblyInfo.cs
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\staticwebassets.build.json
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\staticwebassets.development.json
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\scopedcss\bundle\DotNetCoreWebApp.styles.css
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\scopedcss\projectbundle\DotNetCoreWebApp.bundle.scp.css
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.csproj.CopyComplete
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.dll
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\refint\DotNetCoreWebApp.dll
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.pdb
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.genruntimeconfig.cache
+F:\TestApplication\DotNetCoreWebApp\obj\Debug\net6.0\ref\DotNetCoreWebApp.dll
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\appsettings.Development.json
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\appsettings.json
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.staticwebassets.runtime.json
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.exe
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.deps.json
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.runtimeconfig.json
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.dll
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\DotNetCoreWebApp.pdb
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\runtimes\win7-x64\native\sni.dll
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\runtimes\win7-x86\native\sni.dll
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+F:\Sample projects for Demo\DotNetCoreWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.csproj.AssemblyReference.cache
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.AssemblyInfoInputs.cache
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.AssemblyInfo.cs
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.csproj.CoreCompileInputs.cache
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.RazorAssemblyInfo.cache
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.RazorAssemblyInfo.cs
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\staticwebassets.build.json
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\staticwebassets.development.json
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\scopedcss\bundle\DotNetCoreWebApp.styles.css
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\scopedcss\projectbundle\DotNetCoreWebApp.bundle.scp.css
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.csproj.CopyComplete
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.dll
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\refint\DotNetCoreWebApp.dll
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.pdb
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\DotNetCoreWebApp.genruntimeconfig.cache
+F:\Sample projects for Demo\DotNetCoreWebApp\obj\Debug\net6.0\ref\DotNetCoreWebApp.dll
